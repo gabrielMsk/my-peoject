@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "621898696288",
+    "firebase_url": "https://vortex-9b477.firebaseio.com",
+    "project_id": "vortex-9b477",
+    "storage_bucket": "vortex-9b477.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621898696288:android:74063b9ae825956daba505",
+        "android_client_info": {
+          "package_name": "com.example.vortex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621898696288-2h6nsfthuer8rsip1v07o1c5leep8fc5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vortex",
+            "certificate_hash": "dcfe928007b0cae9cb5b1046a7c122eb673d8299"
+          }
+        },
+        {
+          "client_id": "621898696288-2gs9f72as058opadn5a2n24rg11a4oc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR1b_UgA5-T3OCJteWemfO7B26d2r3kuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621898696288-2gs9f72as058opadn5a2n24rg11a4oc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
